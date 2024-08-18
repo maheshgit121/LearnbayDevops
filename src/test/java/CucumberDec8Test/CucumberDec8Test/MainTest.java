@@ -18,4 +18,13 @@ public class MainTest
         assertTrue( true );
         System.out.println("Maven test is passed");
     }
+
+
+   @Test
+    public void shouldAnswerWithTrueOne()
+    {
+       
+        System.out.println("Addition of two numbers 2 and 3 is: " + (2+3));
+        assertTrue( true );
+    }
 }
