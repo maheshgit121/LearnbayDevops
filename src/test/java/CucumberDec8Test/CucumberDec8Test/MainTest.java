@@ -16,7 +16,7 @@ public class MainTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
-        System.out.println("Maven test is passed");
+        Syste.out.println("Maven test is passed");
     }
 
 
