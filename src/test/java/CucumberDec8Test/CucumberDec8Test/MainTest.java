@@ -24,7 +24,7 @@ public class MainTest
     public void shouldAnswerWithTrueOne()
     {
        
-        System.out.println("Addition of two numbers 2 and 3 is: " + (2+3));
+        System.out.println("Addition of two numbers 2 and 3 is: " + (4+2+3));
         assertTrue( true );
     }
 }
