@@ -16,7 +16,7 @@ public class MainTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
-        System.out.println("Maven test is passed on 19 Aug");
+        System.out.println("Maven test is passed on 19 Aug 2024");
     }
 
 
